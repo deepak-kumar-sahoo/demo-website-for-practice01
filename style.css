@@ -1,0 +1,23 @@
+* {margin:0; padding:0; border:0;}
+
+body { background-image:url(bird.jpg);
+       background-size:cover;
+}
+
+#dilip01 { height:300px;
+		   width:700px;
+}
+
+#dilip02 { height:300px;
+		   width:700px;
+}
+
+.me01 { height:150px;
+        width:200px;
+		padding:30px;
+}
+
+.me02 { height:250px;
+        width:600px;
+		padding:30px;
+}
